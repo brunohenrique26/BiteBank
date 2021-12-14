@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/brunohenrique26/BiteBank/issues"
   },
-  "homepage": "https://github.com/brunohenrique26/BiteBank#readme"
+  "homepage": "https://github.com/brunohenrique26/BiteBank#readme",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
 }
